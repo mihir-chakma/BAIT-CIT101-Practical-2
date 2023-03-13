@@ -1,4 +1,4 @@
-# DAIT CIT101 - Practical 2 - Solutions 
+# BAIT CIT101 - Fundamentals of Programming
 
-#### Python solutions
+#### Practical 2 - Python solutions
 
